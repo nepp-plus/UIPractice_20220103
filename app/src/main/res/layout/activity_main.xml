@@ -15,6 +15,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:hint="이메일 주소를 입력해주세요."
         android:inputType="textEmailAddress"/>
 
     <TextView
@@ -25,6 +26,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:hint="비밀번호 입력."
         android:inputType="textPassword"/>
 
 
